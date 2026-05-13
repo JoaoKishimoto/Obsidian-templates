@@ -39,13 +39,13 @@ Kg6 52. Rh8 Kg7 53. Rh5 Rh1+ 54. Kf2 Kg6 55. Rg5+ Kh6 56. Kg3 Rg1+ 57. Kf4 Rf1+
 5. Kg3 Rg1+ 59. Kf4 Rf1+ 60. Ke3 Rh1 61. Rg4 Kh5 62. Rg8 Rxh4 63. Rh8+ Kg4 64.
 Rxh4+ Kxh4 1/2-1/2
 ```
-utilize o código abaixo, substitua PGN pelo PGN desejado e você terá uma partida como a acima :
+Caso queira criar os PGNs manualmente, utilize o código abaixo, substitua PGN pelo PGN desejado e você terá uma partida como a acima :
 ```
 	``` chessview
 		<PGN>
 	```
 ```
-O promp que eu utilizei no Claude foi o seguinte:
+Caso deseje utilizar IA para fazer o trabalho pesado (recomendado) promp que eu utilizei no Claude foi o seguinte:
 ```
 leia a documentação desse plugin do obsidian e adapte os arquivos a seguir (após a extração, caso em formato .zip) para o padrão de PGN que ele utiliza e me mande todas as partidas em um só arquivo de extensão .md
 
