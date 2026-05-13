@@ -1,0 +1,13 @@
+---
+modified: 13-05-2026
+code: false
+read: false
+tags:
+  - Schedule
+  - Daily
+---
+`BUTTON[previous]`    `BUTTON[next]`
+# Day planner
+
+`BUTTON[task]` 
+
